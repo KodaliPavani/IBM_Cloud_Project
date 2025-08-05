@@ -1,60 +1,60 @@
  🌩️ IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies – Capstone Project
  
-This document summarizes the final project completed during the IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies, a program organized by IBM SkillsBuild, AICTE, and the Edunet Foundation.
+  This document summarizes the final project completed during the IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies, a program organized by IBM SkillsBuild, AICTE, and the Edunet Foundation.
 
 🎯 Internship Objective
 
-The goal of this internship was to provide hands-on experience in AI and Cloud Computing, helping students improve their practical skills and work on real-world problems using IBM tools.
+    The goal of this internship was to provide hands-on experience in AI and Cloud Computing, helping students improve their practical skills and work on real-world problems using IBM tools.
 
 📌 Intern Information
 
-Name: KODALI PAVANI
+    Name: KODALI PAVANI
 
-College: KL University
+    College: KL University
 
-Duration: 15th July 2025 to 7th August 2025 (4 Weeks)
+    Duration: 15th July 2025 to 7th August 2025 (4 Weeks)
 
 📚 What the Internship Covered
 
-The internship included online sessions, mentor support, and practical labs.
+  The internship included online sessions, mentor support, and practical labs.
 
-Here’s what was covered each week:
+  Here’s what was covered each week:
 
-Week 1: Introduction, IBM Cloud account setup, basics of Artificial Intelligence
+    Week 1: Introduction, IBM Cloud account setup, basics of Artificial Intelligence
 
-Week 2: Data Analytics concepts, Cloud tools, and hands-on labs
+    Week 2: Data Analytics concepts, Cloud tools, and hands-on labs
 
-Week 3 & 4: Building machine learning models and deploying them using IBM Cloud services
+    Week 3 & 4: Building machine learning models and deploying them using IBM Cloud services
 
 To complete the internship, students had to finish two IBM SkillsBuild courses and submit a final project.
 
-💡 Capstone Project: Power System Fault Detection and Classification
+  💡 Capstone Project: Power System Fault Detection and Classification
 
 ✅ Solution
 
-We developed a machine learning model to detect and classify different types of faults in a power distribution system. The model was trained using electrical measurement data (voltage and current phasors) and deployed on IBM Cloud for real-time fault classification through a REST API.
+    We developed a machine learning model to detect and classify different types of faults in a power distribution system. The model was trained using electrical measurement data (voltage and current phasors) and deployed on IBM Cloud for real-time fault classification through a REST API.
 
 🛠️ Tools & Technologies Used
 
-Cloud Platform: IBM Cloud Lite
+    Cloud Platform: IBM Cloud Lite
 
-AI Tools: IBM Watsonx.ai Studio, IBM AutoAI
+    AI Tools: IBM Watsonx.ai Studio, IBM AutoAI
 
-Languages/Libraries: Python, pandas, scikit-learn, XGBoost, ibm-watsonx-ai
+    Languages/Libraries: Python, pandas, scikit-learn, XGBoost, ibm-watsonx-ai
 
-Dataset: Kaggle – Power System Faults Dataset
+    Dataset: Kaggle – Power System Faults Dataset
 
 🚀 Project Steps
 
-Data Upload: The fault classification dataset was uploaded to IBM Cloud using IBM Watson Studio.
+    Data Upload: The fault classification dataset was uploaded to IBM Cloud using IBM Watson Studio.
 
-Model Building: Using IBM AutoAI, preprocessing, feature engineering, and training were automated.
+    Model Building: Using IBM AutoAI, preprocessing, feature engineering, and training were automated.
 
-Best Model Chosen: The XGBoost classifier showed the highest accuracy among tested models.
+    Best Model Chosen: The XGBoost classifier showed the highest accuracy among tested models.
 
-Deployment: The model was deployed as a web service with a REST API endpoint using IBM Watsonx.ai.
+    Deployment: The model was deployed as a web service with a REST API endpoint using IBM Watsonx.ai.
 
-Testing: The API was tested using sample input data representing fault scenarios – it correctly identified fault types.
+    Testing: The API was tested using sample input data representing fault scenarios – it correctly identified fault types.
 
 📊 Final Outcome
 
